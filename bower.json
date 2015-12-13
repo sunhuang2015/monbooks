@@ -1,0 +1,22 @@
+{
+  "name": "monbooks",
+  "description": "This is a Book Store WebSite",
+  "main": "./bin/wwww",
+  "authors": [
+    "sunhuang2015"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Books"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

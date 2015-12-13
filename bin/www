@@ -1,0 +1,9 @@
+var express = require('express');
+var app= express();
+
+var config = require('../server/config/config');
+
+
+app.listen(config.port,function(){
+    console.log("Start the server at the port:",config.port);
+});
